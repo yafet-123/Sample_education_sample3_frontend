@@ -30,7 +30,7 @@ export function Mission() {
         </div>
       </div>
 
-      <div className="relative">
+      <div className="hidden lg:block relative">
         <div className="hidden md:block absolute top-1/4 w-full h-56 bg-amber-500"></div>
         <div className="absolute top-0 left-0 lg:left-1/4 mission-background w-full md:w-96 h-[30rem] "></div>
       </div>
