@@ -20,7 +20,7 @@ export function Programmes() {
 
       <div className="w-full relative">
         <div className="w-96 h-[40rem] bg-amber-500 mx-20"></div>
-        <div className="absolute top-10 w-full h-[30rem] bg-white"></div>
+        <div className="absolute top-10 w-full h-[30rem] bg-white grid grid-cols-1 md:grid-cols-2 gap-4"></div>
       </div>
     </div>
   );

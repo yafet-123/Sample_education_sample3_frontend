@@ -28,7 +28,7 @@ export function MissionOne() {
 
       <div className="mt-20 h-screen mb-56">
         <div className="w-[55rem] h-[45rem] bg-amber-500 float-right">
-          <div className="hero-background w-[80rem] h-[45rem] mt-28 -mx-[30rem] relative">
+          <div className="missionone-background w-[80rem] h-[45rem] mt-28 -mx-[30rem] relative">
             <div className="p-10 bg-white w-[30rem] h-96 absolute left-24 top-3/4 mb-10 border-4 border-orange-700">
               <h1 className="text-2xl font-bold uppercase text-left mb-5">
                 Our Teachers
