@@ -20,7 +20,7 @@ export function Mission() {
           </Link>
         </div>
 
-        <div className="flex flex-col w-1/2 float-right text-slate-600">
+        <div className="mt-10 md:mt-0 flex flex-col w-1/2 float-left lg:float-right text-slate-600">
           <p className="font-serif font-medium tracking-wide leading-10 text-left capitalize">
             Duis aute irure dolor in reprehenderit in voluptate velit esse
             cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
