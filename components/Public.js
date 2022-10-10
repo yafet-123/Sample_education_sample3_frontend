@@ -25,7 +25,14 @@ export function Public() {
         </p>
       </div>
 
-      <div className="mr-20 mt-96 w-full h-96 bg-amber-500 grid grid-cols-1 md:grid-cols-2 gap-10"></div>
+      <div className="mr-20 mt-56 w-full bg-amber-500 h-96 flex pr-28 px-20">
+        <div className="w-full relative ">
+          <div className="public-one-background w-1/4 h-full absolute -top-1/4 left-0"></div>
+          <div className="public-two-background w-1/4 h-full absolute -top-1/4 left-1/4"></div>
+          <div className="public-three-background w-1/4 h-full absolute -top-1/4 left-2/4"></div>
+          <div className="public-four-background w-1/4 h-full absolute -top-1/4 left-3/4"></div>
+        </div>
+      </div>
     </div>
   );
 }
