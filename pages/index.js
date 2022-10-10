@@ -6,6 +6,7 @@ import { Mission } from "../components/Mission";
 import { MissionOne } from "../components/MissionOne";
 import { Navbar } from "../components/Navbar";
 import { Programmes } from "../components/Programmes";
+import { Public } from "../components/Public";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Aim />
       <MissionOne />
       <Programmes />
+      <Public />
     </div>
   );
 }
