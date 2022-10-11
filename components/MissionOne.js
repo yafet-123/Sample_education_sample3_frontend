@@ -27,8 +27,8 @@ export function MissionOne() {
       </div>
 
       <div className="mt-20 h-screen mb-56">
-        <div className="w-[55rem] h-[45rem] bg-transparent lg:bg-amber-500 lg:float-right">
-          <div className="missionone-background w-full lg:w-[80rem] h-[45rem] -ml-20 lg:mt-28 lg:-mx-[30rem] lg:relative overflow-hidden">
+        <div className="w-full lg:w-[55rem] lg:h-[45rem] bg-transparent lg:bg-amber-500 float-none lg:float-right">
+          <div className="missionone-background w-full lg:w-[80rem] h-full lg:h-[45rem] lg:mt-28 lg:-mx-[30rem] lg:relative">
             <div className="p-5 lg:p-10 bg-white w-96 lg:w-[30rem] h-96 lg:absolute lg:left-24 lg:top-3/4 mb-10 border-4 border-orange-700">
               <h1 className="text-2xl font-bold uppercase text-left mb-5">
                 Our Teachers
