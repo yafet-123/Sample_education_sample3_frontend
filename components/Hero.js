@@ -24,7 +24,7 @@ export function Hero() {
         </div>
       </div>
 
-      <div className="mt-20 lg:-mt-48 w-full h-[40rem] bg-gray-300 lg:relative">
+      <div className="mt-0 lg:-mt-48 w-full h-[40rem] bg-gray-300 lg:relative">
         <div className="lg:absolute lg:bottom-20 lg:left-1/4 lg:right-1/4 font-normal uppercase text-center mb-5 text-slate-800 mx-20 lg:mx-0 pt-20 lg:pt-0 ">
           <h1 className="text-base lg:text-2xl">About our school</h1>
           <h1 className="text-xl lg:text-2xltext-4xl">

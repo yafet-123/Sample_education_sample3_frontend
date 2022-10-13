@@ -8,7 +8,7 @@ export function Mission() {
         <h1 className="text-2xl font-bold uppercase text-left mb-5">
           Our Mission
         </h1>
-        <div className="flex flex-col w-1/2 text-slate-600">
+        <div className="flex flex-col w-full lg:w-1/2 text-slate-600">
           <p className="font-serif font-medium tracking-wide leading-10 text-left capitalize">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -20,7 +20,7 @@ export function Mission() {
           </Link>
         </div>
 
-        <div className="mt-10 md:mt-0 flex flex-col w-1/2 float-left lg:float-right text-slate-600">
+        <div className="mt-10 md:mt-0 w-full lg:w-1/2 float-left lg:float-right text-slate-600">
           <p className="font-serif font-medium tracking-wide leading-10 text-left capitalize">
             Duis aute irure dolor in reprehenderit in voluptate velit esse
             cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
