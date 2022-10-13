@@ -7,7 +7,7 @@ export function Hero() {
         <div className="hidden lg:block w-[45rem] h-screen bg-amber-500 mx-20 z-20"></div>
         <div className="lg:absolute lg:top-28 hero-background w-full lg:w-[55rem] h-[35rem] flex flex-col">
           <div className="hidden lg:block w-40 h-40 bg-amber-300 border-none rounded-full lg:absolute lg:top-24 lg:-right-24"></div>
-          <div className="p-10 bg-white w-[30rem] h-96 lg:absolute lg:-right-24 lg:-bottom-2/4 mb-10">
+          <div className="p-10 bg-white w-full lg:w-[30rem] h-96 lg:absolute lg:-right-24 lg:-bottom-2/4 mb-10">
             <h1 className="text-2xl font-bold uppercase text-left mb-5">
               Welcome
             </h1>

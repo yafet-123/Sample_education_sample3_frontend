@@ -18,12 +18,12 @@ export function Programmes() {
         </button>
       </div>
 
-      <div className="w-full lg:relative">
+      <div className="w-full h-full lg:relative">
         <div className="hidden lg:block w-96 h-[40rem] bg-amber-500 mx-20"></div>
         <div className="lg:absolute lg:top-20 w-full h-[30rem] bg-white grid grid-cols-1 lg:grid-cols-2 gap-10">
           <div className="hidden lg:block programmes-background w-full h-[30rem]"></div>
-          <div className="">
-            <h1 className="text-4xl font-bold uppercase text-center lg:text-left px-5 lg:px-5 my-5 w-full lg:w-3/4">
+          <div className="flex flex-col">
+            <h1 className="text-xl lg:text-4xl font-bold uppercase text-center lg:text-left px-5 lg:px-5 my-5 w-full lg:w-3/4">
               Getting Education Became Easier
               <span className="block w-full bg-amber-600 p-2 mt-5 border rounded-lg"></span>
             </h1>
