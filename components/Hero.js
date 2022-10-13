@@ -11,7 +11,7 @@ export function Hero() {
             <h1 className="text-2xl font-bold uppercase text-left mb-5">
               Welcome
             </h1>
-            <p className="font-serif font-medium text-slate-600 tracking-wide leading-10 text-left capitalize">
+            <p className="font-serif font-medium text-slate-600 tracking-wide leading-8 lg:leading-10 text-left capitalize">
               bring to the table win-win survival strategy to ensure proactive
               domination. at the end of the day. going forward, a new normal
               that has evolved from genation x is on the runway heading towards
