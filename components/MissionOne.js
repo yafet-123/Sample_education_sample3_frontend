@@ -26,10 +26,10 @@ export function MissionOne() {
         </div>
       </div>
 
-      <div className="mt-20 h-screen mb-56">
+      <div className="mt-20 h-screen mb-56 -mx-20 lg:mx-0">
         <div className="w-full lg:w-[55rem] h-full lg:h-[45rem] bg-transparent lg:bg-amber-500 float-none lg:float-right ">
           <div className="missionone-background w-full lg:w-[80rem] h-full lg:h-[45rem] lg:mt-28 lg:-mx-[30rem] lg:relative ">
-            <div className="p-5 lg:p-10 bg-white w-96 lg:w-[30rem] h-96 lg:absolute lg:left-24 lg:top-3/4 mb-10 border-4 border-orange-700">
+            <div className="p-5 lg:p-10 bg-white w-96 lg:w-[30rem] h-96 lg:absolute lg:left-24 lg:top-3/4 mb-10 border-0 lg:border-4 lg:border-orange-700">
               <h1 className="text-2xl font-bold uppercase text-left mb-5">
                 Our Teachers
               </h1>
@@ -44,7 +44,7 @@ export function MissionOne() {
               </button>
             </div>
           </div>
-          <div className="p-5 lg:p-10 w-96 lg:w-[30rem] h-96 mt-10 bg-amber-700 lg:float-right">
+          <div className="hidden lg:block p-5 lg:p-10 w-96 lg:w-[30rem] h-96 mt-10 bg-amber-700 lg:float-right">
             <h1 className="text-2xl font-bold uppercase text-left mb-5 text-white">
               About us
             </h1>
