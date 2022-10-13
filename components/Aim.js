@@ -11,17 +11,17 @@ export function Aim() {
           </h1>
         </div>
 
-        <div className="grid grid-cols-4 lg:grid-cols-2 gap-10 absolute bottom-10 lg:-bottom-40 mx-20 lg:mx-0">
-          <div className="bg-white py-12 px-2 text-center text-sm lg:text-xl font-extrabold uppercase text-amber-700">
+        <div className="grid grid-cols-4 lg:grid-cols-2 gap-2 lg:gap-10 absolute bottom-10 lg:-bottom-40 mx-20 lg:mx-0">
+          <div className="bg-white py-12 px-2 text-center text-xs lg:text-xl font-extrabold uppercase text-amber-700">
             Maths
           </div>
-          <div className="bg-white py-12 px-2 text-center text-sm lg:text-xl font-extrabold uppercase text-amber-700">
+          <div className="bg-white py-12 px-2 text-center text-xs lg:text-xl font-extrabold uppercase text-amber-700">
             Computer Science
           </div>
-          <div className="bg-white py-12 px-2 text-center text-sm lg:text-xl font-extrabold uppercase text-amber-700">
+          <div className="bg-white py-12 px-2 text-center text-xs lg:text-xl font-extrabold uppercase text-amber-700">
             Physics
           </div>
-          <div className="bg-white py-12 px-2 text-center text-sm lg:text-xl font-extrabold uppercase text-amber-700">
+          <div className="bg-white py-12 px-2 text-center text-xs lg:text-xl font-extrabold uppercase text-amber-700">
             History
           </div>
         </div>
