@@ -25,12 +25,12 @@ export function Public() {
         </p>
       </div>
 
-      <div className="mr-20 mt-56 w-full bg-transparent lg:bg-amber-500 h-96 flex pr-28 px-20">
+      <div className="mr-0 lg:mr-20 mt-56 w-full bg-transparent lg:bg-amber-500 h-96 flex pr-0 lg:pr-28 px-0 lg:px-20">
         <div className="w-full grid grid-cols-2 gap-10 lg:relative ">
           <div className="public-one-background w-full lg:w-1/4 h-full lg:absolute lg:-top-1/4 lg:left-0"></div>
-          <div className="public-two-background w-full lg:w-1/4 h-full lg:absolute lg:-top-1/4 left-1/4"></div>
-          <div className="public-three-background w-full lg:w-1/4 h-full lg:absolute lg:-top-1/4 left-2/4"></div>
-          <div className="public-four-background w-full lg:w-1/4 h-full lg:absolute lg:-top-1/4 left-3/4"></div>
+          <div className="public-two-background w-full lg:w-1/4 h-full lg:absolute lg:-top-2/4 lg:left-1/4"></div>
+          <div className="public-three-background w-full lg:w-1/4 h-full lg:absolute lg:-top-1/4 lg:left-2/4"></div>
+          <div className="public-four-background w-full lg:w-1/4 h-full lg:absolute lg:-top-2/4 lg:left-3/4"></div>
         </div>
       </div>
     </div>
