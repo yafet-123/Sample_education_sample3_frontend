@@ -2,7 +2,7 @@ import React from "react";
 
 export function Programmes() {
   return (
-    <div className="pt-20 px-20 w-full h-full bg-gray-300">
+    <div className="py-20 px-20 w-full h-full bg-gray-300">
       <div className="max-w-2xl mx-auto flex flex-col items-center mb-5">
         <h1 className="text-2xl font-bold uppercase text-center mb-5">
           New Programmes
@@ -20,7 +20,7 @@ export function Programmes() {
 
       <div className="w-full h-full lg:relative">
         <div className="hidden lg:block w-96 h-[40rem] bg-amber-500 mx-20"></div>
-        <div className="lg:absolute lg:top-20 w-full h-[30rem] bg-white grid grid-cols-1 lg:grid-cols-2 gap-10">
+        <div className="lg:absolute lg:top-20 w-full h-full lg:h-[30rem] bg-white grid grid-cols-1 lg:grid-cols-2 gap-10 py-10">
           <div className="hidden lg:block programmes-background w-full h-[30rem]"></div>
           <div className="flex flex-col">
             <h1 className="text-xl lg:text-4xl font-bold uppercase text-center lg:text-left px-5 lg:px-5 my-5 w-full lg:w-3/4">
