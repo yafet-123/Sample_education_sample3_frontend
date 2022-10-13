@@ -29,15 +29,15 @@ export function Programmes() {
             </h1>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
-              <p className="font-serif font-medium tracking-wide leading-10 text-center lg:text-left px-5 lg:px-5 capitalize w-full lg:w-3/4">
+              <p className="font-serif font-medium tracking-wide leading-8 lg:leading-10 text-center lg:text-left px-5 lg:px-5 capitalize w-full lg:w-3/4">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
 
-              <p className="font-serif font-medium tracking-wide leading-10 text-center lg:text-left px-5 lg:px-5 capitalize w-full lg:w-3/4">
+              <p className="font-serif font-medium tracking-wide leading-8 lg:leading-10 text-center lg:text-left px-5 lg:px-5 capitalize w-full lg:w-3/4">
                 Ut enim ad minim veniam, quis nostrud exercitation ullamco
                 laboris nisi ut aliquip ex ea commodo consequat.
-                <span className="block w-32 p-2 bg-amber-700 text-white border rounded-lg mt-5">
+                <span className="block w-32 p-2 bg-amber-700 text-white border rounded-lg mt-3 lg:mt-5">
                   Learn More
                 </span>
               </p>
