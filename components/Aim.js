@@ -5,7 +5,7 @@ export function Aim() {
     <div className="bg-gray-300 w-full h-screen relative">
       <div className="hidden lg:block lg:absolute top-0 left-0 lg:left-1/2 w-[32rem] h-full bg-amber-500"></div>
       <div className="lg:absolute lg:left-1/4 lg:top-32 aim-background w-full lg:w-[70rem] h-[35rem] ">
-        <div className="p-32 lg:p-10 bg-transparent lg:bg-white w-[20rem] h-60 lg:-mt-10 lg:float-right lg:-mx-10 m-auto">
+        <div className="p-32 lg:p-10 bg-transparent lg:bg-white w-full lg:w-[20rem] h-60 lg:-mt-10 lg:float-right lg:-mx-10 m-auto">
           <h1 className="text-black text-2xl font-extrabold uppercase text-center lg:text-left">
             Helping each child find and follow their best learning path.
           </h1>
