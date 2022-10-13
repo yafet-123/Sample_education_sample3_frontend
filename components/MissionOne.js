@@ -4,13 +4,13 @@ export function MissionOne() {
   return (
     <div className="m-20 h-full ">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
-        <div className="font-serif font-semibold text-amber-700 tracking-wide leading-10 text-justify capitalize w-1/2 float-right">
+        <div className="font-serif font-semibold text-amber-700 tracking-wide leading-10 text-justify capitalize w-full lg:w-1/2 float-right">
           our mission is to be a caring community of lifelong learners. with
           collaberatives teaching in a workshop model where students are doing
           most of the talking and heavy lifting of their learning.
         </div>
 
-        <div className="flex flex-col w-1/2">
+        <div className="flex flex-col w-full lg:w-1/2">
           <h1 className="text-2xl font-bold uppercase text-left mb-5">
             Welcome to School for children
           </h1>
