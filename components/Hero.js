@@ -3,7 +3,7 @@ import React from "react";
 export function Hero() {
   return (
     <div className="w-full h-full">
-      <div className="mx-20 z-10 md:relative">
+      <div className="mx-0 lg:mx-20 z-10 md:relative">
         <div className="hidden lg:block w-[45rem] h-screen bg-amber-500 mx-20 z-20"></div>
         <div className="lg:absolute lg:top-28 hero-background w-full lg:w-[55rem] h-[35rem] flex flex-col">
           <div className="hidden lg:block w-40 h-40 bg-amber-300 border-none rounded-full lg:absolute lg:top-24 lg:-right-24"></div>
